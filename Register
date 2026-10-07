@@ -1,0 +1,5 @@
+accounting-meetup-scanner/
+│
+├── index.html
+├── scanner.js
+└── style.css
